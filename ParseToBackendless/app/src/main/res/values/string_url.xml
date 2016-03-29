@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_id">NapG5rmVgAgTNEnh6qYLUK0Hl9PwmIfxNCwjUk4C</string>
+    <string name="rest_api_key">f3ZlSnuGTabg5v8BqIIwmwIqkU3InYoYQ3EYeXq5</string>
+    <string name="user_get">http://api.parse.com/1/classes/User</string>
+</resources>
